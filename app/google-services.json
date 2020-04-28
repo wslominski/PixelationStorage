@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947209144926",
+    "firebase_url": "https://pixelation-31808.firebaseio.com",
+    "project_id": "pixelation-31808",
+    "storage_bucket": "pixelation-31808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947209144926:android:c8c4fa6aced37e6d6d42cf",
+        "android_client_info": {
+          "package_name": "com.example.pixelationstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947209144926-karmodtljtrnv65hl26b9t265lvdf8r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixelationstorage",
+            "certificate_hash": "f5ea499983f87eceaf954e9540fac5ebd3e212fe"
+          }
+        },
+        {
+          "client_id": "947209144926-00kobf2uo6vkhpmfn60tb5h8i9mvohci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZjXJK--4kqLSjVA27PvC1wLT6y3TTl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947209144926-00kobf2uo6vkhpmfn60tb5h8i9mvohci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
